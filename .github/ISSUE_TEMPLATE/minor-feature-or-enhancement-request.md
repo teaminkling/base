@@ -1,9 +1,10 @@
 ---
-name: Feature Request
-about: Suggest a new product feature.
-title: ""
+name: Minor Feature or Enhancement Request
+about: Suggest a new product enhancement or minor feature.
+title: ''
 labels: enhancement
-assignees: ""
+assignees: ''
+
 ---
 
 ## Related to Problem

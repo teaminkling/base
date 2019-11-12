@@ -1,9 +1,10 @@
 ---
-name: Bug report
+name: Bug Report
 about: Report an existing bug.
-title: ""
+title: ''
 labels: bug
-assignees: ""
+assignees: ''
+
 ---
 
 ## The Problem
@@ -34,6 +35,10 @@ A clear and concise description of what you expected to happen.
 - OS: [e.g. iOS8.1]
 - Browser [e.g. stock browser, safari]
 - Version [e.g. 22]
+
+## Desired Solution
+
+This section is optional and may not be applicable. If there are multiple ways of solving the problem, you should use this section.
 
 ## Screenshots and Other Context
 
