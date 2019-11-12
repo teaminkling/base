@@ -33,4 +33,3 @@ Thanks!
 - [ ] **Check the license!**
 - [ ] Finish/edit this README file.
 - [ ] Add/edit any and all badges associated with this project.
-- [ ] Ensure your repository/account/organisation is connected to [Sheilds.io](https://shields.io/).

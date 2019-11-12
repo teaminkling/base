@@ -22,6 +22,12 @@ Move on to the next section to learn how to contribute changes!
 6. A branch has exactly one contributor.
 7. The branch should be named `#-brief-description`, e.g.: `31-fix-aligned-ball`.
 
+## Commit Message Filters
+
+- If you don't want to run a CI pipeline with a commit, attach `skip-ci` somewhere in the last commit you pushed.
+- If you want to create a milestone, commit with `pre-<version>`, e.g.: `pre-1.2.1`.
+- Place all of these in square brackets, e.g.: `[skip-ci, pre-1.2.1]`.
+
 ## Issue Correspondence
 
 An issue has:
