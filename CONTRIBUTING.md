@@ -10,6 +10,10 @@
 
 Move on to the next section to learn how to contribute changes!
 
+## Testing
+
+We consider testing the most important part in substantial projects and still an important thing in minor integrations, GitHub Actions, scripts, and so on. Check out the [TESTING.md](TESTING.md) file for guidelines on how testing is performed in order to get your pull requests accepted.
+
 ## The Basics
 
 > Team Inkling collaborators may push directly to `master` for minor documentation fixes.
