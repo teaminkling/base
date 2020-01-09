@@ -3,7 +3,8 @@
 ## Getting Started
 
 - [Ensure you have a GitHub account](https://github.com/join).
-- Feel free to [open an issue](https://github.com/mas-cli/mas/issues/new) to report a bug, ask a question, or request a feature.
+- Feel free to [open an issue](https://github.com/mas-cli/mas/issues/new) to report a bug, ask a question, or request a
+  feature.
   - Before you do this, try to look for similar issues that ask the same thing.
     - If it is a bug report, you can probably look up by error code experienced.
   - When you open the issue, make sure you read the template and follow it.
@@ -12,7 +13,9 @@ Move on to the next section to learn how to contribute changes!
 
 ## Testing
 
-We consider testing the most important part in substantial projects and still an important thing in minor integrations, GitHub Actions, scripts, and so on. Check out the [TESTING.md](TESTING.md) file for guidelines on how testing is performed in order to get your pull requests accepted.
+We consider testing the most important part in substantial projects and still an important thing in minor integrations,
+GitHub Actions, scripts, and so on. Check out the [TESTING.md](TESTING.md) file for guidelines on how testing is
+performed in order to get your pull requests accepted.
 
 ## The Basics
 
@@ -44,18 +47,20 @@ An issue has:
 
 ## Changelog
 
-[`CHANGELOG.md`](http://changelog.md) is automatically populated and managed via a GitHub Action. On the `master` branch, a Team Inkling contributor will "humanise" the changelog before tagging and releasing a new version of software.
+[`CHANGELOG.md`](http://changelog.md) is automatically populated and managed via a GitHub Action. On the `master`
+branch, a Team Inkling contributor will "humanise" the changelog before tagging and releasing a new version of software.
 
 A milestone corresponds to a release and vice versa.
 
 ## Slightly More Advanced Rules
 
 1. Nobody else is supposed to touch your branch.
-    1. If you want to hand over the branch to somebody else, they must rebase your changes on their own branch. Your branch will then be closed by you or when it becomes stale.
+    - If you want to hand over the branch to somebody else, they must rebase your changes on their own branch. Your
+      branch will then be closed by you or when it becomes stale.
 2. If `master` is ahead of your branch, make yourself level with `master` by rebasing before submitting a pull request.
 3. Once it's on `master`, that's the truth. No more rewriting history!
 4. If anything goes stale, it may be closed at the maintainer's discretion.
-    1. Team Inkling engineers are exempt from this rule.
+    - Team Inkling engineers are exempt from this rule.
 
 ## Quality Control
 

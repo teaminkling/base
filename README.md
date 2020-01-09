@@ -1,9 +1,18 @@
-# template
+# base
 
-![Autobadger Release Stability](https://img.shields.io/static/v1?label=stability&message=unusable&style=flat-square&color=red)
-![Autobadger Latest Release](https://img.shields.io/static/v1?label=latest&message=0.0.0&style=flat-square&color=purple)
+| Summary           | Badge                                              |
+| ----------------- | -------------------------------------------------- |
+| Release Stability | ![Autobadger Release Stability][release-stability] |
+| Latest Release    | ![Autobadger Latest Release][latest-release]       |
+| Code Quality      | [![Maintainability][quality-image]][quality-link]  |
+| Code Coverage     | [![Test Coverage][coverage-image]][coverage-link]  |
 
-[_What are these badges?_](https://github.com/teaminkling/autobadger/tree/master/BADGES.md)
+[release-stability]: https://img.shields.io/static/v1?label=latest&message=0.0.0&color=purple
+[latest-release]: https://img.shields.io/static/v1?label=stability&message=unusable&color=red
+[quality-image]: https://api.codeclimate.com/v1/badges/2a5f19c4fac18d083aa6/maintainability
+[quality-link]: https://codeclimate.com/github/teaminkling/base/maintainability
+[coverage-image]: https://api.codeclimate.com/v1/badges/<ID_HERE>/test_coverage
+[coverage-link]: https://codeclimate.com/github/teaminkling/base/test_coverage
 
 ## Introduction
 
@@ -25,11 +34,10 @@ Describe at least how _you_ are deploying this project so you can do it again.
 
 ## Documentation
 
-If you would like to contribute to this project, please read our [contributors documentation](CONTRIBUTING.md) (which furthermore links to our [testing guidelines](TESTING.md)) and our [code of conduct](CODE_OF_CONDUCT.md).
+If you would like to contribute to this project, please read our [contributors documentation](CONTRIBUTING.md) (which
+furthermore links to our [testing guidelines](TESTING.md)) and our [code of conduct](CODE_OF_CONDUCT.md).
 
 The license we use for this project is defined in [the license file](LICENSE).
-
-Thanks!
 
 ## To-Do
 
