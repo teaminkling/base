@@ -1,4 +1,4 @@
-Closes #<issue-number-here>.
+Closes #issue_number_here.
 
 ## Checklist
 
