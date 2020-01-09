@@ -9,9 +9,9 @@
 
 [release-stability]: https://img.shields.io/static/v1?label=latest&message=0.0.0&color=purple
 [latest-release]: https://img.shields.io/static/v1?label=stability&message=unusable&color=red
-[quality-image]: https://api.codeclimate.com/v1/badges/2a5f19c4fac18d083aa6/maintainability
+[quality-image]: https://api.codeclimate.com/v1/badges/8887e847856049d78bfc/maintainability
 [quality-link]: https://codeclimate.com/github/teaminkling/base/maintainability
-[coverage-image]: https://api.codeclimate.com/v1/badges/<ID_HERE>/test_coverage
+[coverage-image]: https://api.codeclimate.com/v1/badges/8887e847856049d78bfc/test_coverage
 [coverage-link]: https://codeclimate.com/github/teaminkling/base/test_coverage
 
 ## Introduction
