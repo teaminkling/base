@@ -37,7 +37,7 @@ and will edit, reject, and delete pull requests and issues if we can cite instan
 
 ## Scope
 
-If you are representing the project or its community, we expect you to follow by the Code of Conduct. The scope of the
+If you are representing the project or its community, we expect you to follow the Code of Conduct. The scope of the
 Code may also be extended to verifiable public interactions and/or personal interactions if they cannot be resolved
 internally.
 
@@ -49,7 +49,7 @@ We are obligated to:
 
 - Follow our own Code of Conduct.
 - Maintain confidentiality in regards to the reporter.
-- Provide a response to the reporter.
+- Eventually provide a response to the reporter.
 - Provide transparency in verdict decision-making.
 
 Verdicts handed out to contributors include (but are not limited to) requests for apology, warnings, organisation-wide
