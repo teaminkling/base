@@ -6,5 +6,4 @@ labels: epic
 assignees: ''
 ---
 
-> Describe why you want a certain issue and replace this quote with your answer. Describe any workarounds you have in
-> place to do what you are after.
+> Why do you want this feature? Also, describe any workarounds you have in place.
