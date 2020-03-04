@@ -2,8 +2,8 @@
 
 | Summary           | Badge                                              |
 | ----------------- | -------------------------------------------------- |
-| Release Stability | ![Autobadger Release Stability][release-stability] |
-| Latest Release    | ![Autobadger Latest Release][latest-release]       |
+| Release Stability | ![Autobadge Release Stability][release-stability] |
+| Latest Release    | ![Autobadge Latest Release][latest-release]       |
 | Code Quality      | [![Maintainability][quality-image]][quality-link]  |
 | Code Coverage     | [![Test Coverage][coverage-image]][coverage-link]  |
 
@@ -31,13 +31,6 @@ Describe exactly how to build this project from scratch. Keep in mind platform-s
 ## Deploy
 
 Describe at least how _you_ are deploying this project so you can do it again.
-
-## Documentation
-
-If you would like to contribute to this project, please read our [contributors documentation](CONTRIBUTING.md) (which
-furthermore links to our [testing guidelines](TESTING.md)) and our [code of conduct](CODE_OF_CONDUCT.md).
-
-The license we use for this project is defined in [the license file](LICENSE).
 
 ## To-Do
 

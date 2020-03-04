@@ -1,4 +1,8 @@
-# Standard .gitignore for all Inkling projects.
+# IDE
 
-.env
+.idea/
+
+# Environment
+
 HISTORY.md
+.env
