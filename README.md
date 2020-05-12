@@ -36,4 +36,5 @@ Describe at least how _you_ are deploying this project so you can do it again.
 
 - [ ] **Check the license!**
 - [ ] Finish/edit this README file.
+- [ ] Familiarise yourself with [Inkling Flow](https://github.com/teaminkling/inkling-flow).
 - [ ] Add/edit any and all badges associated with this project.

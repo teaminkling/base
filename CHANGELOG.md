@@ -1,6 +1,6 @@
 # Changelog
 
-## [null](https://github.com/teaminkling/base/tree/null) (2020-05-03)
+## [null](https://github.com/teaminkling/base/tree/null) (2020-05-12)
 
 [Full Changelog](https://github.com/teaminkling/base/compare/5090b597d2543dcf1352d58526793231bbbb766e...null)
 
