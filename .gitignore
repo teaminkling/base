@@ -8,6 +8,7 @@
 HISTORY.md
 dist/
 coverage/
+/target/
 
 ## Python
 
@@ -23,3 +24,11 @@ __pycache__/
 .nuxt/
 node_modules/
 .nyc_output
+
+## Rust
+
+**/*.rs.bk
+
+## Remove/comment this line for executables:
+
+Cargo.lock
