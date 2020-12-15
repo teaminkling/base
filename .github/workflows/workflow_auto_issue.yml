@@ -1,3 +1,4 @@
+name: Auto-Branch
 on:
   issues:
     types: [assigned]
@@ -8,7 +9,7 @@ jobs:
   create_issue_branch_job:
     runs-on: ubuntu-latest
       steps:
-        - name: Create Issue Branch
-          uses: robvanderleek/create-issue-branch@v1.4
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Issue Branch
+        uses: robvanderleek/create-issue-branch@v1.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
