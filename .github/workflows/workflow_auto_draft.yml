@@ -1,8 +1,8 @@
-name: Auto-Draft
+name: "[Branch Push] Auto-Draft"
 on:
   push:
     branches:
-      - "i-*"
+      - "issue-*"
 
 # For the wildcard non-main branches, once they exist, submit a draft PR.
 

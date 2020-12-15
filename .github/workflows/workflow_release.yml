@@ -1,9 +1,10 @@
-name: Release
+name: "[Tag Push] Release"
 on:
   push:
     tags:
       - "v*"
 
+#
 # Perform the integration and deployment tasks. Usual candidates include:
 #
 # - Create and store packages/images to a registry.
