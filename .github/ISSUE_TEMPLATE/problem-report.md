@@ -1,6 +1,6 @@
 ---
 name: Problem Report
-about: Report a problem (bug, typo, etc).
+about: Report a problem with the repository (code, bug, typo, documentation, etc).
 title: ''
 labels: bug
 assignees: ''
