@@ -1,0 +1,7 @@
+on: [push]
+
+# For each push, check that the project builds and tests pass (and run coverage if applicable).
+
+#
+# TODO
+#

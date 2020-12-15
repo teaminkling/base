@@ -2,12 +2,12 @@
 
 ## Getting Started
 
-- [Ensure you have a GitHub account](https://github.com/join).
-- Feel free to [open an issue](/issues/new) to report any bugs.
+- [Ensure you have a GitHub account][join].
+- Feel free to [open an issue][report] to report any bugs.
   - Before you do this, try to look for similar issues that report the same thing.
     - If there are, don't respond `+1` but react to the post to indicate your support!
   - When you open the issue, make sure you read the template and follow it, replacing sections as needed.
-- [The discussions page](/discussions) is a free, safe, and open environment to discuss:
+- [The discussions page][discussions] is a free, safe, and open environment to discuss:
   - Feature requests.
   - Showcases.
   - Whatever comes to mind!
@@ -20,7 +20,7 @@
 2. Branch from `main` in your fork.
 3. Open pull requests (PRs) from your fork's new branch to our repository's `main` branch.
   - A branch has exactly one corresponding issue and contributor.
-4. The branch should be named `issue-#-short_desc`, e.g., `issue-31-pad_button_left`.
+4. The branch should be named `issue-#`, e.g., `issue-31`.
 
 Note that any code must be in American English and any comments should be in Australian English. Errors will not be
 rejected in PR but likely will be overwritten in later code changes.
@@ -51,3 +51,26 @@ There are quality control standards.
 - Run your code under as many code quality checks as possible.
 - Make sure it is readable and well-documented.
 - Make sure it adheres to language/framework-specific conventions.
+
+## Maintainer's Guide
+
+> Unless you're a maintainer, you don't need to continue reading. This section is based on [Inkling Flow][flow].
+
+### Sprint Planning
+
+1. Each Release is planned in advance and a Milestone is created for that release.
+2. When a set amount of tasks are completed for that Milestone, a Release is made.
+
+It is up to the maintainers to ensure milestones exist before assigning Issues to them.
+
+### Release Documentation
+
+1. On each `git tag`, a GitHub Release is created as a draft.
+2. The maintainer must write a human-readable changelog for that version before publishing the Release.
+
+Changelogs are for humans and it should be a human process to perform the release.
+
+[join]: https://github.com/join
+[report]: /issues/new
+[discussions]: /discussions
+[flow]: https://github.com/teaminkling/doc-flow
