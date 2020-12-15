@@ -1,4 +1,4 @@
-name: "[Branch Push] Auto-Draft"
+name: "Auto-Draft"
 on:
   push:
     branches:
