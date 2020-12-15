@@ -11,11 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: get-issue
+      run: |
+        issue=$(echo ${{ github.ref }} | cut -d '-' -f 2)
+        echo "Issue found: ${{ steps.get-issue.outputs.issue }}"
     - name: pull-request
       uses: repo-sync/pull-request@v2
       with:
         destination_branch: "main"
-        pr_title: "WIP: Pulling ${{ github.ref }} into the main branch"
+        pr_title: "WIP: ${{ github.ref }} -> main, Closes ${{ steps.get-issue.outputs.issue }} post-pull..."
         pr_template: ".github/pull_request_template.md"
         github_token: ${{ secrets.GITHUB_TOKEN }}
         pr_draft: true
