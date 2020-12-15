@@ -1,4 +1,4 @@
-name: "[Issue Assign] Auto-Branch"
+name: "Auto-Branch"
 on:
   issues:
     types: [assigned]
