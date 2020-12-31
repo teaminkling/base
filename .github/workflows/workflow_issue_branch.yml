@@ -13,10 +13,3 @@ jobs:
       uses: robvanderleek/create-issue-branch@v1.4
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  pull-request:
-    runs-on: ubuntu-latest
-    needs: issue-branch
-    steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
