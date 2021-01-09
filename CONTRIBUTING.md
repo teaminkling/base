@@ -40,8 +40,8 @@ An issue has:
 1. Nobody else will modify your branch.
   - If you want to hand over the branch to somebody else, they must rebase your changes on their own branch. You
     will then either close your own branch, or it will be closed when stale.
-2. If `main` is ahead of your branch, make yourself level with `main` by rebasing before submitting a pull request.
-3. Once it is on `main`, that's the truth. No more rewriting history!
+2. If `main` is ahead of your branch, make yourself level with `main` by rebasing before submitting a pull request.
+3. Once it is on `main`, that's the truth. No more rewriting history!
 4. If anything goes stale, it may be closed at the maintainer's discretion.
 
 ## Quality Control
