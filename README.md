@@ -1,6 +1,6 @@
 # base
 
-> **Warning**: This repository is not ready for use and should be ignored until this warning is removed.
+> **Warning**: This repository is not ready for use and should be ignored for now.
 
 ## Introduction
 
@@ -10,11 +10,11 @@ Base template for all repositories without a better template.
 
 ## Build Instructions
 
-Describe exactly how to build this project from scratch. Keep in mind platform-specific instructions.
+Describe exactly how to build this project from scratch.
 
 ## Deploy
 
-Describe at least how _you_ are deploying this project so you can do it again.
+Describe at least how _you_ are deploying this project, so you can do it again.
 
 ## To-Do
 
