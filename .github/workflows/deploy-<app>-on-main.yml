@@ -1,13 +1,12 @@
-name: "Build <app> on Push"
+name: "Deploy <app> on Main"
 on:
   push:
-    paths:
-      - ".github/workflows/*-<app>-*.yml"
-      - "apps/<app>/**"
+    branches:
+      - main
   workflow_dispatch:
     inputs:
       branch:
-        description: "Branch to build"
+        description: "Branch to deploy"
         required: true
         default: "main"
 
