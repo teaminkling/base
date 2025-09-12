@@ -7,6 +7,11 @@
     "after 9am on thursday",
     "before 12pm on thursday"
   ],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "pr"
+  },
   "hostRules": [
     {
       "hostType": "npm",
@@ -34,7 +39,8 @@
       "matchUpdateTypes": [
         "patch",
         "minor"
-      ]
+      ],
+      "automerge": true
     },
     {
       "groupName": "task: dependencies safe update",
@@ -44,7 +50,8 @@
       "matchUpdateTypes": [
         "patch",
         "minor"
-      ]
+      ],
+      "automerge": true
     },
     {
       "groupName": "task: peer dependencies safe update",
@@ -54,7 +61,8 @@
       "matchUpdateTypes": [
         "patch",
         "minor"
-      ]
+      ],
+      "automerge": true
     }
   ]
 }
